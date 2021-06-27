@@ -1,0 +1,28 @@
+#meetUp {
+    background-color: lightgrey;
+    width: 1000px;
+    border: 1px solid green;
+    padding: 5px;
+    margin: 20px;
+}
+#game {
+
+    background-color: whitesmoke;
+    width: 500px;
+    height: 300px;
+    border: 1px solid red;
+
+}
+#gameManual {
+
+    background-color: whitesmoke;
+    width: 500px;
+    height: 300px;
+    border: 1px solid purple;
+
+}
+
+#secondLearn{
+    height: 200px;
+    width: 200px;
+}
